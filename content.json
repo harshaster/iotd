@@ -1,0 +1,39 @@
+[
+    {
+        "text" : "You can press F2 to rename a file in file managers both in Windows and Linux and even on the Google drive.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : ""
+    },
+    {
+        "text" : "Birthday paradox says that if there are 23 people in a room, there is a 50% chance that two of them have the same birthday.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : "https://en.wikipedia.org/wiki/Birthday_problem"
+    },
+    {
+        "text" : "The first ever domain name registered was symbolics.com on March 15, 1985.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : "https://en.wikipedia.org/wiki/Symbolics"
+    },
+    {
+        "text" : "The first ever website was info.cern.ch and it is still online.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : "http://info.cern.ch/"
+    },
+    {
+        "text" : "You can write <code>lorem-10</code> to generate 10 words of lorem ipsum text in VS Code.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : "http://info.cern.ch/"
+    },
+    {
+        "text" : "There is a programming language called Brainf*ck. It has only 8 commands.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : "https://esolangs.org/wiki/Brainfuck"
+    }
+    
+]
