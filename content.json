@@ -27,7 +27,7 @@
         "text" : "You can write <code>lorem-10</code> to generate 10 words of lorem ipsum text in VS Code.",
         "by" : "",
         "by_link" : "",
-        "read_more_link" : "http://info.cern.ch/"
+        "read_more_link" : ""
     },
     {
         "text" : "There is a programming language called Brainf*ck. It has only 8 commands.",
