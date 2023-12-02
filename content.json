@@ -34,6 +34,12 @@
         "by" : "",
         "by_link" : "",
         "read_more_link" : "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+        "text" : "Everything in the universe is either a duck or it's not a duck.",
+        "by" : "",
+        "by_link" : "",
+        "read_more_link" : ""
     }
     
 ]
